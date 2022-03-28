@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EVA-Info" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-EVBLF3O\SQLEXPRESS;Initial Catalog=EVA-Info;Integrated Security=True" SettingsObjectName="Eva_DataBase_App.Properties.Settings" SettingsPropertyName="EVA_InfoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EvaDataBase" Member="EvaDataBases">
+    <Type Name="EvaDataBase">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="SecondName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PhoneNo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DOB" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BloodGroup" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Department" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,11 @@
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\bin\Debug\Eva_DataBase_App.exe.config
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\bin\Debug\Eva_DataBase_App.exe
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\bin\Debug\Eva_DataBase_App.pdb
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.csprojAssemblyReference.cache
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.Form1.resources
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.Form2.resources
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.Properties.Resources.resources
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.csproj.GenerateResource.cache
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.exe
+C:\Users\desktop\Desktop\C#\Eva_DataBase_App\Eva_DataBase_App\obj\Debug\Eva_DataBase_App.pdb
